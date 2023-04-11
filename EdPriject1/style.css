@@ -1,0 +1,45 @@
+.navbar-brand img{
+    width: 30px;
+}
+.navbar-brand h9{
+    size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.full-width{
+    width: 500px;
+    height: 300px;
+}
+.feature-item img{
+    width: 50px;
+    height: auto;
+}
+.subscribe{
+    background-image: url(images/dark.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.brand-icon img{
+    width: 150px;
+    height: auto;
+}
+.blur-filter{
+    backdrop-filter: blur(10px);
+    background-color: rgb(255 255 255 / 90%);
+}
+.subscribe-heading span{
+    color: white;
+    text-shadow: 10cqmax;
+    font-weight:bold;
+}
+.brand-icon img{
+
+    width: 30px;
+}
+.brand-icon h9{
+    size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.brand-icon h8{
+    size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
